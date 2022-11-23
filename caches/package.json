@@ -1,0 +1,19 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava *.spec.ts"
+  },
+  "author": "Roberto von Schoettler <rschoettler@proveo.ca>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "ava": "^5.0.1"
+  },
+  "dependencies": {
+    "data-types": "workspace",
+    "algorithms": "workspace"
+  }
+}
